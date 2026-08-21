@@ -1,0 +1,14 @@
+# Secret Environment Variable
+.env 
+
+# Virtual Environment (Matches env, venv, .venv, etc.)
+env/
+venv/
+.venv
+ENV/
+
+# Database & Static files
+db.sqlite3
+staticfiles/
+*.pyc
+__pycache__/
