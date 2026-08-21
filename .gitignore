@@ -12,3 +12,9 @@ db.sqlite3
 staticfiles/
 *.pyc
 __pycache__/
+
+
+
+
+
+# postgresql://logistics_db_271b_user:CmOivqIdr15ZcjEwELJojyZ1Lw5yDaOr@dpg-da43ftgjo6nc73dir4k0-a/logistics_db_271b
